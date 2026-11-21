@@ -9,7 +9,7 @@ No flags or task answers are published here, only notes in my own words.
 | Room | Path | Notes |
 |---|---|---|
 | Offensive Security Intro | Pre-Security | [write-up](pre-security/offensive-security-intro.md) |
-| Defensive Security Intro | Pre-Security | [skeleton](pre-security/defensive-security-intro.md) |
+| Defensive Security Intro | Pre-Security | [write-up](pre-security/defensive-security-intro.md) |
 
 ## Structure
 
